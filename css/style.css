@@ -20,13 +20,25 @@ body{
     float: left;
     text-align: center;
     width: 33%;
+    font-size: 125%;
 }
 .esp{
     border: 1px solid black;
+    background-color: rgb(255, 91, 91);
 }
 .eus{
     border: 1px solid black;
+    background-color: rgb(119, 156, 255);
 }
 .en{
     border: 1px solid black;
+    background-color: rgb(197, 127, 255);
+}
+p{
+    font-family: "Caveat", cursive;
+    font-size: 125%;
+}
+.texto{
+    margin-left: 10%;
+    margin-right: 10%
 }
