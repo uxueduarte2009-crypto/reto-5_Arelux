@@ -1,0 +1,32 @@
+h1{
+    margin: 10px auto;
+    width: 25%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: rgb(0, 255, 179);
+    border: 2px solid black;
+}
+body{
+    background-image: url(../images/prinbotevolution.jpg);
+
+}
+.idiomas{
+    clear: both;
+    margin: 10px auto;
+    width: 50%;
+}
+.esp, .eus, .en{
+    float: left;
+    text-align: center;
+    width: 33%;
+}
+.esp{
+    border: 1px solid black;
+}
+.eus{
+    border: 1px solid black;
+}
+.en{
+    border: 1px solid black;
+}
