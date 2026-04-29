@@ -39,6 +39,10 @@ p{
     font-family: "Caveat", cursive;
     font-size: 150%;
 }
+b{
+    font-family: "Caveat", cursive;
+    font-size: 150%;
+}
 li{
     font-family: "Caveat", cursive;
     font-size: 150%;
@@ -48,5 +52,14 @@ li{
     margin-right: 10%;
 }
 img{
-    width: 25%;
+    width: 15%;
+}
+.ot{
+    width: 15%;
+}
+.spider{
+    width: 15%;
+}
+.robot{
+    width: 15%;
 }
